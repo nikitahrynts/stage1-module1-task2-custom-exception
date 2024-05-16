@@ -8,7 +8,7 @@ import java.util.stream.Collectors;
 import org.junit.Test;
 
 
-public class StudentManagerTest {
+public class  StudentManagerTest {
   StudentManager manager = new StudentManager();
 
   @Test(expected = IllegalArgumentException.class)
